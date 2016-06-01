@@ -1,0 +1,32 @@
+{
+  "name": "lesshint-reporter-html",
+  "version": "1.0.0",
+  "description": "An HTML output for LESS Hint",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattdcamp/lesshint-reporter-html.git"
+  },
+  "keywords": [
+    "less",
+    "lesshint",
+    "reporter"
+  ],
+  "author": "Matt Campbell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattdcamp/lesshint-reporter-html/issues"
+  },
+  "homepage": "https://github.com/mattdcamp/lesshint-reporter-html",
+  "dependencies": {
+    "node-handlebars": "^0.9.7",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
